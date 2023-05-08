@@ -5,9 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b52a7722-1bcc-4b2f-9688-fe082c798b37" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Projektni Zadatak 3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/artikl/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artikl/ispis_artikla.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artikl/unos_artikla.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kategorija/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kategorija/ispis_kategorije.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kategorija/unos_kategorije.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/korisnik/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/korisnik/ispis_korisnika.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/korisnik/unos_korisnika.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prodaja/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prodaja/ispis_prodaje.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prodaja/unos_prodaje.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projektni Zadatak 3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Projektni Zadatak 3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +36,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2PT6ZVEQuvpqgt6VvglWCydNlAs" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
