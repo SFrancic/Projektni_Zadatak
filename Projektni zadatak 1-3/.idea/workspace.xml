@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b52a7722-1bcc-4b2f-9688-fe082c798b37" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/Projektni Zadatak.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projektni Zadatak 1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projektni Zadatak 2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projektni Zadatak 3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projektni Zadatak 4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../artikl/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../artikl/ispis_artikla.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../artikl/unos_artikla.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kategorija/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kategorija/ispis_kategorije.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kategorija/unos_kategorije.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../korisnik/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../korisnik/ispis_korisnika.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../korisnik/unos_korisnika.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prodaja/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prodaja/ispis_prodaje.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prodaja/unos_prodaje.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../utilities.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2PT6ZVEQuvpqgt6VvglWCydNlAs" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Projektni Zadatak 3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Projektni Zadatak" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Projektni Zadatak 3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Projektni Zadatak 3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b52a7722-1bcc-4b2f-9688-fe082c798b37" name="Changes" comment="" />
+      <created>1683468780124</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683468780124</updated>
+    </task>
+    <servers />
+  </component>
+</project>
