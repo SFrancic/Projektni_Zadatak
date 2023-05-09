@@ -6,8 +6,6 @@ from prodaja import unos_prodaje, ispis_prodaje
 korisnici = []
 kategorije = []
 prodaje = []
-artikli = []
-
 
 
 broj_korisnika = int(input("Unesite broj korisnika: "))
