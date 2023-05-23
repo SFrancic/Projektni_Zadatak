@@ -1,5 +1,6 @@
 from datetime import date
 
+
 def unos_pozitivnog_cijelog_broja(poruka):
     while True:
         try:
@@ -67,22 +68,3 @@ def unos_intervala(min, max):
 
         else:
             return broj
-
-def unos_telefona(poruka):
-    while True:
-        try:
-            broj = (input(poruka))
-            broj_znamenaka = len(broj)
-
-            if broj_znamenaka < 8:
-                raise Exception('Morate unjeti broj od 8 znamenaka!')
-
-        except ValueError:
-            print('Unijeli ste znak, a ne cijeli broj!')
-
-        except Exception as e:
-            print(e)
-
-        else:
-            return broj
-
